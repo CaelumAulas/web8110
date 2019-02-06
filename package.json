@@ -1,0 +1,23 @@
+{
+  "name": "ceep",
+  "version": "1.0.0",
+  "description": "ceep é um gerenciador de lembretes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaelumAulas/web8110.git"
+  },
+  "author": "Vanessa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaelumAulas/web8110/issues"
+  },
+  "homepage": "https://github.com/CaelumAulas/web8110#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
